@@ -1,0 +1,42 @@
+/* Created by: Brayden MacMillan
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit5-01-HTML-EvenNumberDisplay
+*/
+
+body {
+	background-color: rgb(61, 179, 177);
+}
+
+h1 {
+	background-color: rgb(129, 130, 152);
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #b7f486;
+}
+
+div {
+	
+  font-weight: bold;
+  color: #050505;
+  margin: 5px;
+}
+
+#display-results{
+  background-color: #6bfd4e;
+	font-size: 20px;
+}
+
+iframe {
+	
+  border: none;
+  background-color: #fcfeae;
+  width: 77%;
+  padding: 5px;
+  height: 100px;
+  margin-bottom: 40px;
+}
